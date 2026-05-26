@@ -150,6 +150,7 @@ h2{
 
 #Home .container{
     display: flex;
+    align-items: center;
 }
 
 #Home .home-image{
